@@ -1,11 +1,11 @@
-# ![LOGO](logo.png) airportsapi MSP Connector
+# ![LOGO](logo.png) airportsapi **flow**ground Connector
 
 ## Description
 
-A generated MSP connector for the airportsapi API (version v1).
+A generated **flow**ground connector for the airportsapi API (version v1).
 
 Generated from: https://api.apis.guru/v2/specs/airport-web.appspot.com/v1/swagger.json<br/>
-Generated at: 2019-05-07T11:15:17+03:00
+Generated at: 2019-05-07T17:34:52+03:00
 
 ## API Description
 
@@ -29,7 +29,7 @@ For OAuth 2.0 you need to specify OAuth Client credentials as environment variab
 
 ## License
 
-flowground :- Telekom iPaaS / airport-web-appspot-com-connector<br/>
+**flow**ground :- Telekom iPaaS / airport-web-appspot-com-connector<br/>
 Copyright © 2019, [Deutsche Telekom AG](https://www.telekom.de)<br/>
 contact: flowground@telekom.de
 
