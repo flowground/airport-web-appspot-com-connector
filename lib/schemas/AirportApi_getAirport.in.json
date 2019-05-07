@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "icao_code": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}
